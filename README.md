@@ -7,10 +7,10 @@ in Kazakh and contribute to the growth of Kazakh languages authority.
 Technologies of project:
 Back-end:
 • Python
-• Django [4]
-• Rest API [2]
-• My SQL [7]
+• Django 
+• Rest API
+• My SQL 
 Front-end:
-• React JS [6]
+• React JS  
 For Database used My SQL. In the code below "djangodb" is a name of
 Database in My SQL. "django.db.backends.mysql" line means that Django is connecting with Database
